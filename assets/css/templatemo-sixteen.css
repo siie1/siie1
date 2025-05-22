@@ -89,7 +89,7 @@ a.filled-button:hover {
 }
 
 .products-heading {
-	background-image: url(../images/products-heading.jpg);
+	background-image: url(../images/sie2.jpg);
 }
 
 .about-heading {
@@ -97,7 +97,7 @@ a.filled-button:hover {
 }
 
 .contact-heading {
-	background-image: url(../images/contact-heading.jpg);
+	background-image: url(../images/sie3.jpg);
 }
 
 .page-heading {
@@ -326,7 +326,7 @@ header .navbar {
 
 .banner-item-02 {
 	padding: 300px 0px;
-	background-image: url(../images/sampull1.jpg);
+	background-image: url(../images/sie5.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center center;
